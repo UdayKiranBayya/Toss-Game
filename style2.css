@@ -1,6 +1,13 @@
 body{
     background-color: #393e46;
 }
+#container{
+    text-align: center;
+    border: solid 6px white;
+    margin-left: 200px;
+    margin-right: 100px;
+}
+    
 p {
     color: white;
 }
