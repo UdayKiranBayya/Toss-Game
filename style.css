@@ -1,0 +1,58 @@
+body{
+    background-color: #393e46;
+}
+#btn {
+    background-color: tomato;
+    color: red;
+    border: 2px solid red;
+    border-radius: 8px;
+    width: 150px;
+    height: 45px;
+}
+
+#header {
+    text-align: center;
+    color: white;
+}
+
+#header h1 {
+    font-family: 'Nerko One', cursive;
+    color: white;
+}
+
+#header p {
+    font-family: 'Lobster', cursive;
+    font-family: 'Nerko One', cursive;
+}
+
+#coin {
+    text-align: center;
+    position: absolute;
+    bottom: 200px;
+    left: 550px;
+}
+
+hr {
+    margin-top: 50px;
+}
+#result{
+    color:white ;
+}
+#navbar{
+    background-color: #ffd369;
+    height: 40px;
+    padding: 10px;
+    padding-top: 2px;
+    border: 2px solid  #fdb202 ;
+    border-radius: 8px;
+}
+#navbar ul{
+    list-style: none;
+}
+#navbar ul li {
+    text-align: right;
+}
+
+#navbar ul li a{
+    color: black;
+}
